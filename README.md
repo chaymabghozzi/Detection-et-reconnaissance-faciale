@@ -8,8 +8,7 @@ Notre système permet de réaliser la détection faciale sur un fichier vidéo s
 dur. Il examine les composantes de chaque image et classe les objets détectés. Nous avons utilisés
 le fichier haarcascade_frontalface_default.xml pour la détection des visages.
 
-Solution 2 : Utilisation des bibliothèques Dlib et OpenCV avec
-Landmarks
+Solution 2 : Utilisation des bibliothèques Dlib et OpenCV avec Landmarks
 
 Notre objectif est de détecter les structures faciales importantes sur le visage à l’aide de méthodes de
 prédiction de forme.
